@@ -3,6 +3,8 @@
 
 
 `mysql_connect` was depricated in php5.5.0 and removed in php 7.0.0
+
+
 http://php.net/manual/en/function.mysql-connect.php
 <br />
 
